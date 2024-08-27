@@ -1,4 +1,4 @@
-From 68ef1e66d429363a672b53f4175427d8c8c4b89b Mon Sep 17 00:00:00 2001
+From 3400411ad2e2cfdac349b56085a4665574c09d26 Mon Sep 17 00:00:00 2001
 From: Chris Lalancette <clalancette@gmail.com>
 Date: Thu, 6 Jun 2024 13:47:40 -0400
 Subject: [PATCH] Disable building tests and examples.
